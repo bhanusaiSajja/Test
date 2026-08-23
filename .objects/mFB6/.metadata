@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Whois.com - Domain Names & Identity for Everyone - Google Chrome",
+  "Type": "App",
+  "Id": "mFB6L1ObiUGdPCduwigTsg",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/mFB6L1ObiUGdPCduwigTsg",
+  "Created": "2026-08-11T15:29:56.1048437Z",
+  "Updated": "2026-08-11T15:29:56.1048437Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

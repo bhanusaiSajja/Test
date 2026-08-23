@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Whois.com - Domain Names & Identity fo",
+  "Type": "Screen",
+  "Id": "49lhsWYpP0yHRJ5ucvZVtQ",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/49lhsWYpP0yHRJ5ucvZVtQ",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/MyLk7WMBFEWsjctCZAaCgA",
+  "Created": "2026-08-11T15:50:25.1541242Z",
+  "Updated": "2026-08-11T15:50:25.1541242Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

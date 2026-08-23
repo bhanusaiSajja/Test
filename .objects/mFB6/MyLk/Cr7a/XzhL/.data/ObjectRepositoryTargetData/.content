@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Y77Mrizb0UCbwgBUfTSmoQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com/search?sca_esv=48a3e3035f97e739&amp;sxsrf=APpeQntHXeWAH82gaaNSSVxibvOFsjuQhg:1787393732391&amp;udm=7&amp;fbs=ABfTbFVyMZGZf1hfvX9uKjN_-G8cxpBkeIeqYwoCbfNVc4vKE7plZzta63Pe5DpJ3XFR9XzI_yj6fb6bfPt1x_5u3nRcG7tR9jg4Omd7-UnDuaw5i86wRQqe-045kPXObjb1eDS649ikhB0y_hSFYfNioDnA60A2i_oC1IzIZywb7ERnDQqnSx10JnfJEaAauzJXglx4123_vjf0_54bKrF6QjM9ne5i3g&amp;q=postgresql+tutorials&amp;sa=X&amp;ved=2ahUKEwjthfjDgLSWAxUojeEIHZ1LB9YQtKgLegQIFRAB&amp;biw=1366&amp;bih=607&amp;dpr=1#ip=1" DesignTimeRectangle="134, -4242, 652, 6669" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='center_col' tag='DIV' /&gt;" Guid="1fe891eb-d871-49f7-a507-3ff76084615a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='postgresql tutorials - Google Search' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="1a81678651a256ab24b91da3c6da7b3b.jpg" xmlns="">09JL7JQpB7kC17BbfETm3QQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='New column 0'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="Qg_5X8J_GEujfpKW9tno0w" Reference="hmY6KdwIgkWxRDT-EKhNsg/M_09MjFO6UGTDWwzrX6iug" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1382, 744" BrowserType="Chrome" ContentHash="_Y7HQNYX8UWnLire-EUDWg" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFsSURBVEhL7ZWxTsMwEIZ5ir5Bn6Bv0KFz1b1i7sDWkYG9D4CYWZgYGdj7AIiViYkRia1Jaj77XOs4airsdMvpl5X4nPvO5+RysZuNzqoBYNTeXpuZfgDNes7Ybq6cc4za1QOA6N32qb25dF+fAPYf781qmrw9APZvr8QF0ywnRN8txtpbBfARX7Yk3j0/MLIJqZVWOaC735C45M6t7AOerg86AmCF7NfMi5j33hCFC+JSlu7xjugg9UqRBfBkSMuxZeMSyUlisRqLMQBuzcuT9AuwnsvzmHGJok/lS+mpTFpg1AMA5dJH/QD+UC3An1k4Fc5ZL0uqBTDG+8z6AVAF4Np6l5Po48sKrb8KwBdkvL4nH0zw/waguDx0LuOi70cf4UJbLgHoKFzHvraa+p58sMQuAegq5SwdTwkAyd81Z7rzFAIQOepaifmK/Xy10rHnGmoWkET1CSoncVTyCzKTSacBlRoAJ3VmwGz0DZsckOpxRiS+AAAAAElFTkSuQmCC" Reference="hmY6KdwIgkWxRDT-EKhNsg/M_09MjFO6UGTDWwzrX6iug" Selector="&lt;html app='chrome.exe' title='Automation Developer Professional Training (v2024.10) | UiPath Academy' /&gt;" Url="https://academy.uipath.com/learning-plans/automation-developer-professional-training" Version="V3">
+      <imageRef attrName="InformativeScreenshot" originalValue="b3baaae860f6b532e33a11713a358c0e.jpg" xmlns="">0ra-Tb5Wp70ODU3ZVZDK2PQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

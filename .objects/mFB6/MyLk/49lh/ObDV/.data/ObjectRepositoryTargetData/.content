@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qSiuOZpMnUSgUghTwAx9gA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whois.com" DesignTimeRectangle="653, 129, 69, 56" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl class='nav-link' parentid='menubar' tag='A' /&gt;" Guid="bb5fec8c-8d5e-4dc5-a868-7e3bcf87ef41" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Whois.com - Domain Names &amp;amp; Identity for Everyone' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="be119bcaee95fc46ea27ccf4898de208.jpg" xmlns="">0AfOF17aulkeGOw6KDimzAg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

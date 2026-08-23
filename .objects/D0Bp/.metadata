@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Automation Developer Professional Training (v2024.10)  UiPath Academy",
+  "Type": "App",
+  "Id": "D0Bp-DGAg0S9mypkK-EWlA",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/D0Bp-DGAg0S9mypkK-EWlA",
+  "Created": "2026-08-23T07:16:14.4251973Z",
+  "Updated": "2026-08-23T07:16:14.4251973Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

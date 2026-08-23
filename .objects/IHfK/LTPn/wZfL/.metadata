@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Whois zomato.com",
+  "Type": "Screen",
+  "Id": "wZfLbtvE_EipTcsraPIiuA",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/wZfLbtvE_EipTcsraPIiuA",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/LTPnz1uVzEKpy0RNwYzVOw",
+  "Created": "2026-08-11T16:20:35.9111207Z",
+  "Updated": "2026-08-11T16:20:35.9111207Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

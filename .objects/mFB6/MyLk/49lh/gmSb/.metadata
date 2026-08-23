@@ -1,0 +1,13 @@
+﻿{
+  "Name": "flipkart.comMake offerU…(1)",
+  "Type": "Element",
+  "Id": "gmSbET3QrEiPq9S7TH-buA",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/gmSbET3QrEiPq9S7TH-buA",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/49lhsWYpP0yHRJ5ucvZVtQ",
+  "Created": "2026-08-11T18:16:55.8678514Z",
+  "Updated": "2026-08-11T18:16:55.8678514Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

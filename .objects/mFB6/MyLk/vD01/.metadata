@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Whois.com - Domain Names & Identity for Every",
+  "Type": "Screen",
+  "Id": "vD019wzxrEqWQ_PL7Qbkcg",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/vD019wzxrEqWQ_PL7Qbkcg",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/MyLk7WMBFEWsjctCZAaCgA",
+  "Created": "2026-08-11T15:29:59.2678999Z",
+  "Updated": "2026-08-11T15:29:59.2678999Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Whois ajio.com",
+  "Type": "Screen",
+  "Id": "YG6aDySSLUGCHCWMGa8-Jw",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/YG6aDySSLUGCHCWMGa8-Jw",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/LTPnz1uVzEKpy0RNwYzVOw",
+  "Created": "2026-08-12T01:44:56.2920783Z",
+  "Updated": "2026-08-12T01:44:56.2920783Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

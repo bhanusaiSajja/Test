@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v5dy_WOrR0-8DZbWY4MJWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="whois.com/whois" DesignTimeRectangle="345, 439, 586, 42" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='query' tag='INPUT' /&gt;" Guid="bd42bbf1-f65d-425c-bf61-ef24567c4881" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Free Whois Lookup - Whois IP Search &amp;amp; Whois Domain Lookup | Whois.com' /&gt;" SearchSteps="Selector" Version="V6">
+      <imageRef attrName="InformativeScreenshot" originalValue="41544556483ce948910898c3cb8b0e7c.jpg" xmlns="">0GBuSs4U5NE6fWvHae-JZiQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

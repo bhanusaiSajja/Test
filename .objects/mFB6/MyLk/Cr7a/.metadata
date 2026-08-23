@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome postgresql tutorials - Google Search",
+  "Type": "Screen",
+  "Id": "Cr7a60mK2Ei7XFEea9L5tA",
+  "Reference": "hmY6KdwIgkWxRDT-EKhNsg/Cr7a60mK2Ei7XFEea9L5tA",
+  "ParentRef": "hmY6KdwIgkWxRDT-EKhNsg/MyLk7WMBFEWsjctCZAaCgA",
+  "Created": "2026-08-22T10:19:23.7049969Z",
+  "Updated": "2026-08-22T10:19:23.7049969Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.39.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.7.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
